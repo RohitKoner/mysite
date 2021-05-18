@@ -29,10 +29,9 @@ right: 250px;
 top: 120;
 }
 .hill{
-  width: 50%;
   position: absolute;
-  top: 446px;
-  left: 378px;
+  top: 430px;
+  left: 365px;
   right: 350px;
 }
 h1{
