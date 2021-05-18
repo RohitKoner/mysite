@@ -29,10 +29,11 @@ right: 250px;
 top: 120;
 }
 .hill{
-  position: absolute;
+  margin: 0 auto 0 auto;
+  /*position: absolute;
   top: 430px;
   left: 365px;
-  right: 350px;
+  right: 350px;*/
 }
 h1{
   color: #da7f8f;
